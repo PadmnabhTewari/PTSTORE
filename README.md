@@ -94,8 +94,6 @@ ptstore/
 - **Frontend**: React, TypeScript, TailwindCSS
 - **Backend**: Node.js, Express, TypeScript
 - **Database**: MongoDB
-- **Authentication**: OAuth, JWT
-- **Testing**: Jest, React Testing Library
 
 ## 🤝 Contributing
 
@@ -111,11 +109,6 @@ We welcome contributions! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- Thanks to all contributors who have helped shape PTSTORE
-- Special thanks to our amazing community of users and testers
-
 ## 📞 Contact
 
 - Project Link: [https://github.com/yourusername/ptstore](https://github.com/yourusername/ptstore)
@@ -124,5 +117,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  Made with ❤️ by the PTSTORE Team
+  Made with ❤️ by Padmnabh Tewari
 </div>
